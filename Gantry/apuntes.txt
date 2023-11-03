@@ -1,0 +1,2 @@
+Familiarizarme con gantry_interface y gantry_utility_functions
+utility.py solo funciona en windows
